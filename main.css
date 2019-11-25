@@ -18,18 +18,22 @@ div {
   border-top-color: #ffa500;
 }
 
-#red { 
+#yellow { 
   border-top-color: #ff0;
 }
 
-#red { 
+#green { 
   border-top-color: #00bc3f;
 }
 
-#red { /
+#blue { /
   border-top-color: #f00;
 }
 
-#red { 
+#indigo { 
+  border-top-color: #f00;
+}
+
+#violet { 
   border-top-color: #f00;
 }
